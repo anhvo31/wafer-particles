@@ -1,13 +1,13 @@
  
 SP1 Long Wafer Summary
 Session:       ZZBARESI_HT         
-Lot ID:                            
+Lot ID:        LONG TEST           
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                    Wafer Info                                            DCO Totals                                 DCO Haze                                DCO Bins                         
- Side/Wafer ID      Grade       Src/Dest         All    Lpd   LpdN   LpdES   µScr    Scr   Slip      Area        Avg  Median   STDV    Bin1   Bin2   Bin3   Bin4   Bin5   Bin6   Bin7   Bin8  
-                                                 [#]    [#]    [#]     [#]    [#]    [#]   [mm]    [#]  [mm²]   [ppm]  [ppm]  [ppm]     [#]    [#]    [#]    [#]    [#]    [#]    [#]    [#]  
+ Side/Wafer ID      Grade       Src/Dest         All    Lpd   LpdN   LpdES   ï¿½Scr    Scr   Slip      Area        Avg  Median   STDV    Bin1   Bin2   Bin3   Bin4   Bin5   Bin6   Bin7   Bin8  
+                                                 [#]    [#]    [#]     [#]    [#]    [#]   [mm]    [#]  [mmï¿½]   [ppm]  [ppm]  [ppm]     [#]    [#]    [#]    [#]    [#]    [#]    [#]    [#]  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  F                  Rejected    1/22-1/22        187    116     NA      NA     NA     NA     NA     71  0.044   0.024  0.023  0.002       3      5      2     13      4     10      3     10  
  F                  Rejected    1/16-1/16        166     58     NA      NA     NA     NA     NA    108  0.000   0.041  0.041  0.002       4      5      6      2      4      1      1      5  
@@ -31,8 +31,8 @@ Lot ID:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                    Wafer Info                                            DWO Totals                                 DWO Haze                                DWO Bins                         
- Side/Wafer ID      Grade       Src/Dest         All    Lpd   LpdN   LpdES   µScr    Scr   Slip      Area        Avg  Median   STDV    Bin1   Bin2   Bin3   Bin4   Bin5   Bin6   Bin7   Bin8  
-                                                 [#]    [#]    [#]     [#]    [#]    [#]   [mm]    [#]  [mm²]   [ppm]  [ppm]  [ppm]     [#]    [#]    [#]    [#]    [#]    [#]    [#]    [#]  
+ Side/Wafer ID      Grade       Src/Dest         All    Lpd   LpdN   LpdES   ï¿½Scr    Scr   Slip      Area        Avg  Median   STDV    Bin1   Bin2   Bin3   Bin4   Bin5   Bin6   Bin7   Bin8  
+                                                 [#]    [#]    [#]     [#]    [#]    [#]   [mm]    [#]  [mmï¿½]   [ppm]  [ppm]  [ppm]     [#]    [#]    [#]    [#]    [#]    [#]    [#]    [#]  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  F                  Rejected    1/22-1/22        182     88     NA      NA     NA     NA     NA     94  0.044   0.021  0.021  0.001       3      5      2     15      7     11      9      8  
  F                  Rejected    1/16-1/16        166     42     NA      NA     NA     NA     NA    124  0.000   0.036  0.036  0.001       4      5      6      2      5      1      2      2  
@@ -56,8 +56,8 @@ Lot ID:
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                    Wafer Info                                            DNO Totals                                 DNO Haze                                DNO Bins                         
- Side/Wafer ID      Grade       Src/Dest         All    Lpd   LpdN   LpdES   µScr    Scr   Slip      Area        Avg  Median   STDV    Bin1   Bin2   Bin3   Bin4   Bin5   Bin6   Bin7   Bin8  
-                                                 [#]    [#]    [#]     [#]    [#]    [#]   [mm]    [#]  [mm²]   [ppm]  [ppm]  [ppm]     [#]    [#]    [#]    [#]    [#]    [#]    [#]    [#]  
+ Side/Wafer ID      Grade       Src/Dest         All    Lpd   LpdN   LpdES   ï¿½Scr    Scr   Slip      Area        Avg  Median   STDV    Bin1   Bin2   Bin3   Bin4   Bin5   Bin6   Bin7   Bin8  
+                                                 [#]    [#]    [#]     [#]    [#]    [#]   [mm]    [#]  [mmï¿½]   [ppm]  [ppm]  [ppm]     [#]    [#]    [#]    [#]    [#]    [#]    [#]    [#]  
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  F                  Rejected    1/22-1/22        123     58     NA      NA     NA     NA     NA     65  0.000   0.003  0.003  0.000       0      0      0      0      0      0      0      9  
  F                  Rejected    1/16-1/16        139     31     NA      NA     NA     NA     NA    108  0.000   0.005  0.005  0.000       0      0      0      0      0      0      0      9  
