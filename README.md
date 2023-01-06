@@ -6,7 +6,7 @@ To use this program, download the package by clicking on the green button up top
 
 Extract and open the folder in VSCode.
 
-Open `Run_Scripts.ipynb` file and select Run All. The last code cell can be edited to obtain the graph and parameter of your choice.
+Open `Run_Scripts.ipynb` file and select Run All. The last code cell can be edited to obtain the graph and parameters of your choice.
 
 ## Running into Errors?
 If you are encountering errors when running the program, check the following:
