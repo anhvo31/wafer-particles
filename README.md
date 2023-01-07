@@ -6,6 +6,8 @@ To use this program, download the package by clicking on the green button up top
 
 Extract and open the folder in VSCode.
 
+Place all data .txt files in `Summary_TXT_Files` folder.
+
 Open `Run_Scripts.ipynb` file and select Run All. The last code cell can be edited to obtain the graph and parameters of your choice.
 
 ## Running into Errors?
