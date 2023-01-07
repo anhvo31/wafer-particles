@@ -4,7 +4,7 @@ This Git repository contains everything you'll need to parse and plot data from 
 ## How To
 To use this program, download the package by clicking on the green button up top and selecting **Download ZIP**.
 
-Extract and open the folder in VSCode.
+**Extract the ZIP folder** and open the folder in VSCode.
 
 Place all data .txt files in `Summary_TXT_Files` folder.
 
