@@ -4,7 +4,9 @@ This Git repository contains everything you'll need to parse and plot data from 
 ## How To
 To use this program, download the package by clicking on the green button up top and selecting **Download ZIP**.
 
-Extract and open the folder in VSCode.
+Extract all and open the folder in VSCode.
+
+Place all raw data .txt files in `Summary_TXT_Files` folder.
 
 Open `Run_Scripts.ipynb` file and select Run All. The last code cell can be edited to obtain the graph and parameters of your choice.
 
