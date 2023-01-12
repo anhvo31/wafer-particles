@@ -1,6 +1,12 @@
 # Wafer Particles
 This Git repository contains everything you'll need to parse and plot data from standard particle counting data obtained from silicon wafers.
 
+Project written using Python pandas and NumPy.
+
+## Collaborators
+https://github.com/daokoon
+https://github.com/anhvo31
+
 ## How To
 To use this program, download the package by clicking on the green button up top and selecting **Download ZIP**.
 
