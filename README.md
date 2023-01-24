@@ -3,11 +3,6 @@ This Git repository contains everything you'll need to parse and plot data from 
 
 Project written using Python pandas and NumPy.
 
-## Collaborators
-https://github.com/daokoon
-
-https://github.com/anhvo31
-
 ## How To
 To use this program, download the package by clicking on the green button up top and selecting **Download ZIP**.
 
@@ -24,3 +19,8 @@ If you are encountering errors when running the program, check the following:
 * Folders names should **not** be modified from the original
 * Change forward slashes (`/`) to back slashes (`\`) depending on your os
 * When in doubt, delete and redownload the package
+
+## Collaborators
+https://github.com/daokoon
+
+https://github.com/anhvo31
