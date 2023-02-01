@@ -3,7 +3,7 @@ This Git repository contains everything you'll need to parse and plot data from 
 
 Project written using Python pandas and NumPy.
 
-## How To
+## Getting Started
 To use this program, download the package by clicking on the green button up top and selecting **Download ZIP**.
 
 **Extract the ZIP folder** and open the folder in VSCode.
