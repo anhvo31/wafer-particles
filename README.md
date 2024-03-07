@@ -19,8 +19,3 @@ If you are encountering errors when running the program, check the following:
 * Folders names should **not** be modified from the original
 * Change forward slashes (`/`) to back slashes (`\`) depending on your os
 * When in doubt, delete and redownload the package
-
-## Collaborators
-https://github.com/daokoon
-
-https://github.com/anhvo31
